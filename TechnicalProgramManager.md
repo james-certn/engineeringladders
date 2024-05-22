@@ -1,5 +1,7 @@
 # Technical Program Manager
 
+_(Note that this ladder and related roles are not formally recognized or in use at Certn at the moment. This documentation is purely for reference and 1:1 discussion purposes.)
+
 Role responsible for coordinating and driving to completion initiatives that span multiple teams.
 
 | Level | Senior | Position |

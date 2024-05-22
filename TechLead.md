@@ -1,5 +1,7 @@
 # Tech Lead
 
+_(Note that this ladder and related roles are not formally recognized or in use at Certn at the moment. This documentation is purely for reference and 1:1 discussion purposes.)_
+
 Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
 
 | Level | Senior | Position |
